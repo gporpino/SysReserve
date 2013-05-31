@@ -1,0 +1,59 @@
+/*========== CSS reset ==========*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td{margin:0;padding:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}q:before,q:after{content:''}a{ text-decoration: none}
+/*========== CSS geral ==========*/
+body{font-size:62.5%;font-family:Tahoma, Verdana, "Times New Roman", Arial;overflow:hidden}
+#all{width:100%}
+/*========== Topo  ==========*/
+#all #hd{height:21em;position:relative;}
+#all #hd #titulo{height:4.1em;background:url(../img/title.png) no-repeat}
+#all #hd #titulo h2{color:#fff;font-size:1.6em;font-family:Arial;font-weight:bold;padding:.5em 0 0 14.5em;text-transform:uppercase}
+#all #hd #apres{height:15.5em;*height:16em;display:block;background:url(../img/topo.png) repeat-x;position:relative}
+#all #hd #apres span{display:block;width:78.9em;height:17.2em;position:absolute}
+#all #hd .apres1{background:url(../img/topo_apres.png) -.5em -.1em no-repeat}
+#all #hd .apres2{background:url(../img/topo_apres.png) -.5em -17.6em no-repeat}
+#all #hd .apres3{background:url(../img/topo_apres.png) -.5em -35.2em no-repeat}
+/*##### Menu #####*/
+#all #hd #menu{height:3em;width:100em;position:absolute;top:17em;left:20em;color:#fff}
+#all #hd #menu ul{text-transform:uppercase;font-size:1.1em;}
+#all #hd #menu ul li{float:left;display:block;margin-left:3em;cursor:pointer;height:2.2em}
+#all #hd #menu ul li ul{position:absolute;background:#728C86;*background:#66817b;top:2.2em;*top:2.3em;*margin-left:-6.5em; border-bottom:2px solid #54706A;border-left:2px solid #54706A;border-right:2px solid #54706A;visibility:hidden;font-size:1em;}
+#all #hd #menu ul li ul li{display:block;margin:1em;height:1em;*height:2.2em}
+#all #hd #menu ul li a:link, a:hover, a:visited{color:#fff}
+#all #hd #menu ul li:hover{text-decoration:underline}
+#all #hd #menu ul li:hover ul{visibility: visible}
+/*========== Conteúdo  ==========*/
+#all #md{height:32em;background:url(../img/fundo_menu.png) no-repeat top left;padding-left:31em;overflow:auto}
+#all #md h3{font-family:"Comic Sans MS"; font-size:2.5em; color:#ccc;margin-bottom:1em}
+#all #md img#bem_vindo{float:right;margin-right: 10em}
+#all #md p{font-size: 1.3em}
+#all #md a:link, a:hover, a:visited{color: #000}
+#all #md .btn{text-align:right;border:1px solid #c9c9c9;background:#eee;margin:1em -1.2em 1em 1.2em;padding:5px;}
+#all #md .formLista{width: 80%;text-align: right;}
+#all #md #msg{text-align:center;color:#f00;font-size:1.2em}
+/*##### Formulário #####*/
+#all #md fieldset{width:500px;margin:0 0 10px 0;padding:12.5px;border:1px solid #ccc;float:normal 12px 'Lucida Grande', Verdana,sans-serif}
+#all #md fieldset legend{font-size:1.2em}
+#all #md fieldset fieldset{border-style: none;}
+#all #md fieldset fieldset .requerido{margin:1em 0 1em 0;padding:5px;border:1px solid #c9c9c9;background:#e9edec}
+#all #md fieldset fieldset dl{border:1px solid #c9c9c9;background:#eee;margin-bottom: 1em}
+#all #md fieldset fieldset label{font-weight:700}
+#all #md fieldset fieldset dt{float:left;width:120px;padding:5px}
+#all #md fieldset fieldset dd{width:490px;margin:0;padding:5px}
+#all #md fieldset fieldset input{width:360px;border:1px solid #ccc}
+#all #md fieldset fieldset input.numero{width:100px}
+/*##### Tabela #####*/
+#all #md table {border: 1px solid #cecece;width: 80%;margin: 5px 0 20px 0}
+#all #md th, td {padding: 2px 4px 2px 4px}
+#all #md th.sorted, thead tr {background-color: #dedede}
+#all #md th a, th a:visited {color: #666}
+#all #md th.sorted a, th.sortable a {background-position: right;display: block;width: 100%; background: #f09}
+#all #md th.sortable a {background: url(../img/arrow_off.png) no-repeat bottom right}
+#all #md th.order1 a {background: url(../img/arrow_down.png) no-repeat bottom right}
+#all #md th.order2 a {background: url(../img/arrow_up.png) no-repeat bottom right}
+#all #md tr.odd {background-color: #fff}
+#all #md tr.tableRowEven, tr.even {background-color: #efefef}
+/*##### DisplayTag #####*/
+.pagebanner{margin:0 2em 5em 0}
+.pagelinks{}
+/*========== Rodapé  ==========*/
+#all #ft{height:2.5em;background:#728C86;border-top:2px solid #54706A;color:#fff;padding-left:56em;padding-top:1.5em}

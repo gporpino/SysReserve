@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria
+END
+RepositorioReservaMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioReservaMemoria.java
+END
+RepositorioTipoApartamentoMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioTipoApartamentoMemoria.java
+END
+RepositorioCidadeMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioCidadeMemoria.java
+END
+RepositorioPessoaMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioPessoaMemoria.java
+END
+RepositorioServicoMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioServicoMemoria.java
+END
+IRepositoryMemoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/IRepositoryMemoryImpl.java
+END
+RepositorioApartamentoMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioApartamentoMemoria.java
+END
+RepositorioHospedagemMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioHospedagemMemoria.java
+END
+RepositorioTemporadaMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioTemporadaMemoria.java
+END
+RepositorioTipoTelefoneMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioTipoTelefoneMemoria.java
+END
+RepositorioTelefoneMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioTelefoneMemoria.java
+END
+RepositorioEnderecoMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioEnderecoMemoria.java
+END
+RepositorioContaMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioContaMemoria.java
+END
+RepositorioUnidadeFederativaMemoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/memoria/RepositorioUnidadeFederativaMemoria.java
+END

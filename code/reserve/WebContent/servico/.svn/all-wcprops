@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/servico
+END
+registerServico.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/servico/registerServico.ok.jsp
+END
+saveServico.invalid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/servico/saveServico.invalid.jsp
+END
+listServico.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113/trunk/code/reserve/WebContent/servico/listServico.ok.jsp
+END
+saveServico.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/servico/saveServico.ok.jsp
+END

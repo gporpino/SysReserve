@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/WEB-INF/classes
+END
+views.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/WEB-INF/classes/views.properties
+END
+displaytag.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/113/trunk/code/reserve/WebContent/WEB-INF/classes/displaytag.properties
+END
+vraptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/WEB-INF/classes/vraptor.xml
+END

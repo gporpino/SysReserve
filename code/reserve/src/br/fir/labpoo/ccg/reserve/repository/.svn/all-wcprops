@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository
+END
+GerenciadorPersistenciaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/GerenciadorPersistenciaJPA.java
+END
+IRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/IRepository.java
+END
+ITransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/ITransaction.java
+END

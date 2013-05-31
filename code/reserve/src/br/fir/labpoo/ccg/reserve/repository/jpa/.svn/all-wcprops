@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/121/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa
+END
+RepositorioReservaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioReservaJPA.java
+END
+RepositorioTipoApartamentoJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioTipoApartamentoJPA.java
+END
+RepositorioCidadeJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioCidadeJPA.java
+END
+RepositorioServicoJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioServicoJPA.java
+END
+RepositorioPessoaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioPessoaJPA.java
+END
+IRepositoryJPAImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/121/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/IRepositoryJPAImpl.java
+END
+RepositorioApartamentoJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioApartamentoJPA.java
+END
+RepositorioHospedagemJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioHospedagemJPA.java
+END
+RepositorioTemporadaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioTemporadaJPA.java
+END
+RepositorioTipoTelefoneJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioTipoTelefoneJPA.java
+END
+RepositorioTelefoneJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioTelefoneJPA.java
+END
+RepositorioUnidadeFederativaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioUnidadeFederativaJPA.java
+END
+RepositorioEnderecoJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioEnderecoJPA.java
+END
+RepositorioContaJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/repository/jpa/RepositorioContaJPA.java
+END

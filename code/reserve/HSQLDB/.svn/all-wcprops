@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/125/trunk/code/reserve/HSQLDB
+END
+ShutDownBancoHSQLDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/code/reserve/HSQLDB/ShutDownBancoHSQLDB.class
+END
+server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/121/trunk/code/reserve/HSQLDB/server.properties
+END
+shutdownServidorBanco.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/code/reserve/HSQLDB/shutdownServidorBanco.bat
+END
+rodarGerenciadorBanco.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/code/reserve/HSQLDB/rodarGerenciadorBanco.bat
+END
+reserve.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/trunk/code/reserve/HSQLDB/reserve.properties
+END
+ShutDownBancoHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121/trunk/code/reserve/HSQLDB/ShutDownBancoHSQLDB.java
+END
+rodarServidorBanco.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125/trunk/code/reserve/HSQLDB/rodarServidorBanco.bat
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model
+END
+Telefone.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Telefone.java
+END
+Conta.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Conta.java
+END
+UnidadeFederativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/UnidadeFederativa.java
+END
+TipoApartamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/TipoApartamento.java
+END
+Reserva.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Reserva.java
+END
+BasicClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/BasicClass.java
+END
+Cidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Cidade.java
+END
+Servico.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/121/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Servico.java
+END
+Apartamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Apartamento.java
+END
+Hospedagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Hospedagem.java
+END
+Temporada.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Temporada.java
+END
+Funcionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Funcionario.java
+END
+Endereco.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Endereco.java
+END
+Hospede.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Hospede.java
+END
+Diaria.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Diaria.java
+END
+Pessoa.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/Pessoa.java
+END
+TipoTelefone.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/125/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/model/TipoTelefone.java
+END

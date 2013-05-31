@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/apartamento
+END
+registerApartamento.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/apartamento/registerApartamento.ok.jsp
+END
+listApartamento.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/112/trunk/code/reserve/WebContent/apartamento/listApartamento.ok.jsp
+END
+saveApartamento.invalid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/apartamento/saveApartamento.invalid.jsp
+END
+saveApartamento.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/apartamento/saveApartamento.ok.jsp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business
+END
+Cadastro.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/Cadastro.java
+END
+CadastroTelefone.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroTelefone.java
+END
+CadastroUnidadeFederativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroUnidadeFederativa.java
+END
+CadastroConta.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroConta.java
+END
+CadastroEndereco.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroEndereco.java
+END
+CadastroTipoApartamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroTipoApartamento.java
+END
+CadastroReserva.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroReserva.java
+END
+CadastroCidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroCidade.java
+END
+CadastroServico.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroServico.java
+END
+CadastroPessoa.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroPessoa.java
+END
+CadastroApartamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroApartamento.java
+END
+CadastroTemporada.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroTemporada.java
+END
+CadastroHospedagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroHospedagem.java
+END
+CadastroTipoTelefone.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/business/CadastroTipoTelefone.java
+END

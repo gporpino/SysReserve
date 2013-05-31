@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/reserva
+END
+registerReserva.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/reserva/registerReserva.ok.jsp
+END
+listReserva.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/reserva/listReserva.ok.jsp
+END
+listApartamentosDisponiveis.invalid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/reserva/listApartamentosDisponiveis.invalid.jsp
+END
+listApartamentosDisponiveis.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/reserva/listApartamentosDisponiveis.ok.jsp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/temporada
+END
+registerTemporada.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/temporada/registerTemporada.ok.jsp
+END
+saveTemporada.invalid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/temporada/saveTemporada.invalid.jsp
+END
+listTemporada.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/temporada/listTemporada.ok.jsp
+END
+saveTemporada.ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125/trunk/code/reserve/WebContent/temporada/saveTemporada.ok.jsp
+END

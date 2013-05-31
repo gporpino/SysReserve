@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/exception
+END
+MecanismoTransacaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/exception/MecanismoTransacaoException.java
+END
+TemporadaInexistenteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/exception/TemporadaInexistenteException.java
+END
+EntradaInexistenteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/exception/EntradaInexistenteException.java
+END
+RepositoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/116/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve/exception/RepositoryException.java
+END

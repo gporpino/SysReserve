@@ -1,0 +1,86 @@
+10
+
+dir
+125
+https://porpino.guitar@sysreserve.googlecode.com/svn/trunk/code/reserve/src/br/fir/labpoo/ccg/reserve
+https://porpino.guitar@sysreserve.googlecode.com/svn
+
+
+
+2008-06-02T20:29:13.201640Z
+125
+porpino.guitar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2805151a-5748-0410-b307-4d46a79407e2
+
+repository
+dir
+
+model
+dir
+
+facade
+dir
+
+controller
+dir
+
+reserve.properties
+file
+
+
+
+
+2013-05-31T03:27:49.000000Z
+48808fda5f66d7ca731f5306264f4ac0
+2008-05-30T22:02:53.354151Z
+116
+porpino.guitar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+
+factory
+dir
+
+business
+dir
+
+util
+dir
+
+exception
+dir
+
